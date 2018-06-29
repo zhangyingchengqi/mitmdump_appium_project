@@ -8,8 +8,8 @@ fiddler可以抓取https请求，但是去哪网的接口还是很难模拟
 # 微信公众号爬虫 
 信息用fiddler+mitmdump获取，  
 喜欢数和阅读量  https://mp.weixin.qq.com/mp/getappmsgext  
-434
-55582
+434  
+55582  
 文章正文和标题，用正则取出来  https://mp.weixin.qq.com/s  
 
 
